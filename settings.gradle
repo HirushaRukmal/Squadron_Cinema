@@ -1,0 +1,2 @@
+rootProject.name = "Squadron_Cinema"
+include ':app'

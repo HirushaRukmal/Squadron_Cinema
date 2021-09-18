@@ -22,7 +22,7 @@ public class NowShowing extends AppCompatActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.now_showing);
 
         viewPager2 = findViewById(R.id.viewPagerImageSlider);
 

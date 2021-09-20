@@ -1,14 +1,10 @@
 <resources>
     <string name="app_name">Squadron_Cinema</string>
-    <string name="username">Username</string>
-    <string name="password">Password</string>
     <string name="title">ABC CINEMA</string>
     <string name="firstname">Firstname</string>
     <string name="lastname">Lastname</string>
     <string name="email">Email</string>
     <string name="number">Telephone</string>
-    <string name="password2">Password</string>
-    <string name="password3">Confirm Password</string>
     <string name="register">REGISTER</string>
     <string name="login">LOGIN</string>
     <string name="telephone">Telephone</string>
@@ -23,9 +19,9 @@
     <string name="telephone_title">TELEPHONE</string>
     <string name="update">UPDATE</string>
     <string name="delete">DELETE</string>
-    <string name="gender">GENDER</string>
-    <string name="radio_male">MALE</string>
-    <string name="radio_female">FEMALE</string>
     <string name="member">Already a member? SIGNIN</string>
     <string name="usertable">USER</string>
+    <string name="login_link">Already have an account? Login</string>
+    <string name="Password">Password</string>
+    <string name="PasswordC">Confirm Password</string>
 </resources>
